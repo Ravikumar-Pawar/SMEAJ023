@@ -1,1 +1,2 @@
-# SMEAJ023
+# SMEAJ023 java Training
+### Task 1
