@@ -5,3 +5,7 @@ ls -a --show hidden files/all files
 rmdir --remove directory
 cp --copy files from one folders to another folders
 cat  -- create/modify/dispaly files
+
+
+git pull origin master ---copy remote to local 
+git push -f origin master -- push to remote
