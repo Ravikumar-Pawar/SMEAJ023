@@ -9,3 +9,5 @@ cat  -- create/modify/dispaly files
 
 git pull origin master ---copy remote to local 
 git push -f origin master -- push to remote
+
+fist push if branch is not there in remote
