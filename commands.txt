@@ -11,3 +11,22 @@ cat  -- create/modify/dispaly files
 
 git pull origin master ---copy remote to local 
 git push -f origin master -- push to remote
+
+
+local --
+staging--adde changes,committed
+remote--
+
+
+
+reset 
+local repo and stagging --before commiting and private
+git reset logId
+
+revert 
+remote and after commiting, undo existing commit and public
+git revert LogId
+
+remove untracked files
+git clean -n  (it will show files)
+git clean -f (it will remove untracked files)
