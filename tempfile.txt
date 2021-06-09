@@ -1,0 +1,3 @@
+unwanted things 
+ignore first line
+this is reset 
