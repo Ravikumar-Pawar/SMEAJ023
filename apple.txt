@@ -1,1 +1,2 @@
 this is apple list
+print("this is apple list") # using python
