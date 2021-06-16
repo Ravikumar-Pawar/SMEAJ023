@@ -88,6 +88,8 @@ public class JavaCalculator extends JFrame {
         jbtDivide.addActionListener(new ListenToDivide());
         jbtSolve.addActionListener(new ListenToSolve());
         jbtClear.addActionListener(new ListenToClear());
+        
+        
     } //JavaCaluclator()
 
     
